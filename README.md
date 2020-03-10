@@ -1,5 +1,5 @@
 "# Pong-CS1410" 
-## You are cheating yourself if you copy and can't understand it.
+## You are cheating yourself if you copy/paste and can't understand it.
 
 * I encourage you to look at the code, but not to copy it.
 
